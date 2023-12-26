@@ -3246,7 +3246,7 @@
     (effects (font (size 2.032 2.032) (thickness 0.4064) bold) (justify left bottom))
     (uuid 26ef8beb-483d-490d-a7bc-cf3806009fd7)
   )
-  (text "BUZZER PWM" (at 170.18 97.155 0)
+  (text "CAN BUS" (at 170.18 97.155 0)
     (effects (font (size 2.032 2.032) (thickness 0.4064) bold) (justify left bottom))
     (uuid 84ec1201-ef95-4a1c-b74e-d2b7437ea8e0)
   )
